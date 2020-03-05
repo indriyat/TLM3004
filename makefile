@@ -1,4 +1,2 @@
-language: cpp
-
 hellomake: main.cpp function.cpp
-    gcc -o hellomake main.c function.cpp -I.
+    gcc -o hellomake main.cpp function.cpp -I.
