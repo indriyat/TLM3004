@@ -1,2 +1,2 @@
 hello: main.cpp function.cpp
-    gcc -o hello main.cpp function.cpp -I.
+	gcc -o hello main.cpp function.cpp -I.
