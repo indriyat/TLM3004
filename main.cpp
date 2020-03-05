@@ -3,5 +3,5 @@
 #include "function.h"
 
 int main(){
-    return sayHello(true);
+    return sayHello(true)
 }
