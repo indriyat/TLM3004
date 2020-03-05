@@ -7,5 +7,5 @@ bool sayHello(bool sayIt) {
     if(sayIt) {
         cout << "Hello" << endl;
     }
-    return sayIt;
+    return 0;
 }
