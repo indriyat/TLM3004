@@ -1,0 +1,2 @@
+bool sayHello(bool sayIt);
+
